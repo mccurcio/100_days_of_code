@@ -1,6 +1,6 @@
-# 100_days_of_code
+# code_notes
 
-On 9/29/2020 I decided to code every day for 100 days. I code quite often but I do not document it. Now I will.
+On 9/29/2020 I decided to store my code notes. I code quite often but I do not document it. Now I will.
 
 ### Rules
 
